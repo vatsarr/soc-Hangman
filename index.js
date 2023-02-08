@@ -1,4 +1,4 @@
-//Risto ja Kristen
+//Risto
 const functions = require('./functions');
 const gameWord = require('./words');
 
